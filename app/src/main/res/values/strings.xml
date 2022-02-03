@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Theater Review</string>
+    <string name="error">Error</string>
+    <string name="no_file">No file to open</string>
+    <string name="unreadable_file">Unable to read file</string>
+    <string name="no_characters">No characters found in selected scene</string>
+    <string name="no_lines">No lines in selected scene</string>
+    <string name="send">Send</string>
+    <string name="quit">Quit</string>
+    <string name="select_character">Select a character</string>
+    <string name="open_file">Open a file</string>
+    <string name="settings">Settings</string>
+    <string name="tts">Text to speech</string>
+</resources>
